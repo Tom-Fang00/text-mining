@@ -1,0 +1,11 @@
+Project Overview:
+    For this project, I used Harry Potter and the philosopher's stone as the text base. I got the book from an online source and converted it using method given for the gutenberg library. Then I tested out the frequencies for the three main characters: Harry, Ron, and Hermione. This is done by first making the book a list and then count the appearance of each name using a for loop. By doing so, I wish the know who the real "main" character is. 
+
+Implementation:
+    My project was relatively simple. As the text I am analyzing is a book, there is not too much data structure besides different paragraphs within a text file. To make the data type more accessible for my specific purpose, I simply turn the file into a list with each words as individual variables. There was not much design put into my project. I knew what I wanted to achieve and how I want to do it from the start, so I just write down the code and it works. 
+
+Results:
+    From the first book of the Harry Potter series, Harry Potter was clearly the most "main" character as his name appeared way more than Hermione and Ron combined. However, there is a growing trend for the appearance of Hermione and Ron in the following books. For instance, in the first book, Harry Potter appeared 4 times for every time Ron appeared in the book. However, this number changed to 3.38 in the second book and 2.86 in the third book. 
+
+Reflection:
+    From the process point of view, I think that I achieved the basics of what I wanted to do for this project. However, I should have started earlier so I can work on the graphics and the presentations of the final result. In this case, I could have used Turtle or other graphing tools to create a graph where every time a name is called the graph will advance by one, which will show a clearer path for the progression of the different characters. 
